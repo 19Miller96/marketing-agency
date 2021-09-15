@@ -89,17 +89,17 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/*Refactored duplicated CSS style to a single .benefit*/
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/*Refactored duplicated CSS style to a single .benefit h3*/
 .benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/*Refactored duplicated CSS style to a single .benefit img*/
 .benefit img {
   display: block;
   margin: 10px auto;
