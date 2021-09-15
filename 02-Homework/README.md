@@ -29,15 +29,15 @@ SO THAT our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements (Body, footer, H1, H2 etc)
+THEN I find semantic HTML elements (Body, footer, H1, H2 etc) DONE
 WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+THEN I find that the elements follow a logical structure independent of styling and positioning DONE
 WHEN I view the icon and image elements
-THEN I find accessible alt attributes
+THEN I find accessible alt attributes 
 WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
-THEN I find a concise, descriptive title
+THEN I find a concise, descriptive title (DONE)
 ```
 
 ## Mock-Up
